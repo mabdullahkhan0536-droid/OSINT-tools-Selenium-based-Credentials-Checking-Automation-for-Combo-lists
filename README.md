@@ -19,7 +19,9 @@ This tool was built for **ethical security evaluation**, **internal audits**, an
 
 Install dependencies:
 
-pip install selenium webdriver-manager pandas
+pip install pandas selenium undetected-chromedriver openpyxl
+pip install webdriver-manager
+
 ----
 
 Chrome must be installed on your system.
