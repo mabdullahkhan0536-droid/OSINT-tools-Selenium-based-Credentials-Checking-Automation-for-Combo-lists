@@ -20,7 +20,7 @@ This tool was built for **ethical security evaluation**, **internal audits**, an
 Install dependencies:
 
 pip install pandas selenium undetected-chromedriver openpyxl
-pip install webdriver-manager
+
 
 ----
 
