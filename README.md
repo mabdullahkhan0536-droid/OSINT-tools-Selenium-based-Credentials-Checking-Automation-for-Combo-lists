@@ -18,10 +18,10 @@ This tool was built for **ethical security evaluation**, **internal audits**, an
 Chrome must be installed on your system.
 The script automatically installs the correct ChromeDriver.
 
----- Inside Creds_check.py 
+Inside Creds_check.py PUT the URL of you login page you want to test.
+Replace "your_login_page" in LOGIN_URL = "https://your_login_page/" with your actual URL. 
 
-PUT the URL of you login page you want to test.
-Replace "your_login_page" in LOGIN_URL = "https://your_login_page/" with your actual URL.
+----
 Install dependencies:
 ---
 
