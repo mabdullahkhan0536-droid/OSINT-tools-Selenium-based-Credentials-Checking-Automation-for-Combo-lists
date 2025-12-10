@@ -25,7 +25,6 @@ Replace "your_login_page" in LOGIN_URL = "https://your_login_page/" with your ac
 Install dependencies:
 ---
 
-Install dependencies:
 
 ```bash
 pip install pandas selenium undetected-chromedriver openpyxl
