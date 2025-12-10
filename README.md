@@ -15,15 +15,6 @@ This tool was built for **ethical security evaluation**, **internal audits**, an
 - 🧘 Human-like delays + rate limiting to avoid blocking  
 - 🌐 Works on Windows, Linux, and macOS  
 
----
-
-Install dependencies:
-
-pip install pandas selenium undetected-chromedriver openpyxl
-
-
-----
-
 Chrome must be installed on your system.
 The script automatically installs the correct ChromeDriver.
 
@@ -31,5 +22,17 @@ The script automatically installs the correct ChromeDriver.
 
 PUT the URL of you login page you want to test.
 Replace "your_login_page" in LOGIN_URL = "https://your_login_page/" with your actual URL.
+Install dependencies:
+---
+
+Install dependencies:
+
+```bash
+pip install pandas selenium undetected-chromedriver openpyxl
+pip install webdriver-manager
+
+
+
+
 
 
